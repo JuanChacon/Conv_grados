@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Conv_grados</string>
+    <string name="GC">Ingrese los grados centigrados</string>
+    <string name="BtnC">Convertir</string>
+</resources>
